@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>in.brahmam</groupId>
 	<artifactId>Spring-app1</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1-RELEASE</version>
 	<name>Spring-app1</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
